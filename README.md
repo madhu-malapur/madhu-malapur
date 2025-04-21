@@ -14,7 +14,7 @@
 - 🎓 I'm a **Fresher** passionate about starting my journey in the **Data Analytics** field.
 - 📊 I love transforming raw data into actionable insights and visual stories.
 - 🌱 Currently enhancing my skills in advanced data analysis and dashboarding.
-- 📫 Reach me via [Email](mailto:madhumalapur035@gmail.com) or [LinkedIn](https://www.linkedin.com/in/madhura-malapur-26a8322ab)
+- 📫 Reach me via [Email](madhumalapur035@gmail.com) or [LinkedIn](https://www.linkedin.com/in/madhura-malapur-26a8322ab)
 - 💼 Open to full-time Data Analyst opportunities.
 
 ---
@@ -47,7 +47,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:madhumalapur035@gmail.com" target="_blank">
+  <a href="madhumalapur035@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" title="Email" />
   </a>
   <a href="https://www.linkedin.com/in/madhura-malapur-26a8322ab" target="_blank">
