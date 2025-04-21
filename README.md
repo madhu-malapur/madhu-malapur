@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Data Analyst | Eager to Turn Data into Insights</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <img src="https://www.bing.com/th/id/OGC.660adff386b6ecc98484a9c1d15a97c2?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f8619169%2fscreenshots%2f16116886%2fmedia%2fa63d64bcccad878cb9dfdb9a9f6b6416.gif&ehk=pkrCjpGjkS2LnzOZ5TIBD6Y1RUhggZ1yUCeyOln0Wz4%3d" width="300"/>
 </p>
 
 ---
